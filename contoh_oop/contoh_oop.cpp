@@ -1,1 +1,7 @@
-4nimakhir_IntoOOP
+#include <iostream>
+using namespace std;
+
+class bangundatar {
+
+
+};
