@@ -27,3 +27,11 @@ public:
 		cout << "luasnya = " << hitungluas() << endl;
 	}
 };
+
+int main() {
+	bangundatar pp;
+	pp.input();
+	pp.display();
+
+	return 0;
+}
