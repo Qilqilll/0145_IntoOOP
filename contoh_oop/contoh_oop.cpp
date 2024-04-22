@@ -20,4 +20,10 @@ public:
 	float hitungluas() {
 		return Panjang * Lebar;
 	}
+
+	void display() {
+		cout << "panjangnya = " << Panjang << endl;
+		cout << "lebarnya = " << Lebar << endl;
+		cout << "luasnya = " << hitungluas() << endl;
+	}
 };
